@@ -12,3 +12,4 @@
 /Users/mariustysnes/Desktop/Projects/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
 /Users/mariustysnes/Desktop/Projects/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
 /Users/mariustysnes/Desktop/Projects/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll
+/Users/mariustysnes/Desktop/Projects/HelloWorld/obj/Debug/net8.0/HelloWorld.sourcelink.json
