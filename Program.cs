@@ -28,7 +28,7 @@ class Program
         // Iterator++ er det samme som: Iterator = iterator + 1;
         for (int iterator = 0; iterator < myIntArray.Length; iterator++)
         {
-            Console.WriteLine ("$Iterator on position: {iterator}, index of the numbers in the array: {myIntArray[iterator]}");
+            Console.WriteLine ($"Iterator on position: {iterator}, index of the numbers in the array: {myIntArray[iterator]}");
         }
 
         // Vi assigner en ny string array, og vi bruker string[] myStringArray = {"some", "strings"};
