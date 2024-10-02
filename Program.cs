@@ -32,7 +32,7 @@ class Program
         }
 
         // Vi assigner en ny string array, og vi bruker string[] myStringArray = {"some", "strings"};
-        string[] myStringArray = { "Hello", "From", "A", "String", "Array" };
+        string[] myStringArray = {"Hello", "From", "A", "String", "Array"};
 
         // Vi kan bruke en foreach loop, for å loope gjennom string arrayen med en enkelt string variabel.
         // string[] er et array, (string myStrings) er en singel variabel, og in myStringArray er en iterator.
