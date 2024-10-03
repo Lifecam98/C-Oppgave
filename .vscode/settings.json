@@ -1,0 +1,13 @@
+{
+  "indentRainbow.indicatorStyle": "light",
+  "editor.tabSize": 4,
+  "editor.detectIndentation": false,
+  "indentRainbow.lightIndicatorStyleLineWidth": 2,
+  "indentRainbow.colors": [
+    "rgba(255,255,64,0.6)",
+    "rgba(127,255,127, 0.6)",
+    "rgba(255,127,255, 0.6)",
+    "rgba(79,236,236, 0.6)"
+  ],
+  "indentRainbow.colorOnWhiteSpaceOnly": true
+}
