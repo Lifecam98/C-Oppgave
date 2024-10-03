@@ -41,7 +41,6 @@ class Program
             Console.WriteLine(myStrings);
         }
         
-        // Fortsett her!
         //Lager en ny List med strings
         List<string> myList = new List<string>();
         
