@@ -52,8 +52,8 @@ class Program
         myList.Add("Fem");
         
         //Legger til en ny array av strings i listen
-        string[] moresStrings = {"Seks", "Sju", "Åtte", "Ni", "Ti"};
-        myList.AddRange(moresStrings);
+        string[] moreStrings = {"Seks", "Sju", "Åtte", "Ni", "Ti"};
+        myList.AddRange(moreStrings);
         
         //Loop gjennom listen med en foreach loop
         foreach (string myStrings in myList)
