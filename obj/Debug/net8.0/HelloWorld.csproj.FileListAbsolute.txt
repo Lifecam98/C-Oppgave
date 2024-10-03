@@ -28,3 +28,18 @@
 /Users/mariustysnes/Desktop/Kodehode/Projects/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
 /Users/mariustysnes/Desktop/Kodehode/Projects/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
 /Users/mariustysnes/Desktop/Kodehode/Projects/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll
+/Users/mariustysnes/Desktop/Kodehode/Projects/C# oppgave/obj/Debug/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariustysnes/Desktop/Kodehode/Projects/C# oppgave/obj/Debug/net8.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/mariustysnes/Desktop/Kodehode/Projects/C# oppgave/obj/Debug/net8.0/HelloWorld.AssemblyInfo.cs
+/Users/mariustysnes/Desktop/Kodehode/Projects/C# oppgave/obj/Debug/net8.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/mariustysnes/Desktop/Kodehode/Projects/C# oppgave/obj/Debug/net8.0/HelloWorld.sourcelink.json
+/Users/mariustysnes/Desktop/Kodehode/Projects/C# oppgave/obj/Debug/net8.0/HelloWorld.dll
+/Users/mariustysnes/Desktop/Kodehode/Projects/C# oppgave/obj/Debug/net8.0/refint/HelloWorld.dll
+/Users/mariustysnes/Desktop/Kodehode/Projects/C# oppgave/obj/Debug/net8.0/HelloWorld.pdb
+/Users/mariustysnes/Desktop/Kodehode/Projects/C# oppgave/bin/Debug/net8.0/HelloWorld
+/Users/mariustysnes/Desktop/Kodehode/Projects/C# oppgave/bin/Debug/net8.0/HelloWorld.deps.json
+/Users/mariustysnes/Desktop/Kodehode/Projects/C# oppgave/bin/Debug/net8.0/HelloWorld.runtimeconfig.json
+/Users/mariustysnes/Desktop/Kodehode/Projects/C# oppgave/bin/Debug/net8.0/HelloWorld.dll
+/Users/mariustysnes/Desktop/Kodehode/Projects/C# oppgave/bin/Debug/net8.0/HelloWorld.pdb
+/Users/mariustysnes/Desktop/Kodehode/Projects/C# oppgave/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
+/Users/mariustysnes/Desktop/Kodehode/Projects/C# oppgave/obj/Debug/net8.0/ref/HelloWorld.dll

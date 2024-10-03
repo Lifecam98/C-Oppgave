@@ -1,4 +1,4 @@
-﻿namespace HelloWorld;
+﻿namespace C_Oppgave;
 
 class Program
 {

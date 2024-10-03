@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mariustysnes/Desktop/Kodehode/Projects/HelloWorld/HelloWorld.csproj": {}
+    "/Users/mariustysnes/Desktop/Kodehode/Projects/C# oppgave/HelloWorld.csproj": {}
   },
   "projects": {
-    "/Users/mariustysnes/Desktop/Kodehode/Projects/HelloWorld/HelloWorld.csproj": {
+    "/Users/mariustysnes/Desktop/Kodehode/Projects/C# oppgave/HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mariustysnes/Desktop/Kodehode/Projects/HelloWorld/HelloWorld.csproj",
+        "projectUniqueName": "/Users/mariustysnes/Desktop/Kodehode/Projects/C# oppgave/HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "/Users/mariustysnes/Desktop/Kodehode/Projects/HelloWorld/HelloWorld.csproj",
+        "projectPath": "/Users/mariustysnes/Desktop/Kodehode/Projects/C# oppgave/HelloWorld.csproj",
         "packagesPath": "/Users/mariustysnes/.nuget/packages/",
-        "outputPath": "/Users/mariustysnes/Desktop/Kodehode/Projects/HelloWorld/obj/",
+        "outputPath": "/Users/mariustysnes/Desktop/Kodehode/Projects/C# oppgave/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mariustysnes/.nuget/NuGet/NuGet.Config"
