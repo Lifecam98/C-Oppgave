@@ -41,21 +41,21 @@ class Program
             Console.WriteLine(myStrings);
         }
         
-        //Lager en ny List med strings
+        // Lager en ny List med strings
         List<string> myList = new List<string>();
         
-        //Legger til strings i listen
+        // Legger til strings i listen
         myList.Add("En");
         myList.Add("To");
         myList.Add("Tre");
         myList.Add("Fire");
         myList.Add("Fem");
         
-        //Legger til en ny array av strings i listen
+        // Legger til en ny array av strings i listen
         string[] moreStrings = {"Seks", "Sju", "Åtte", "Ni", "Ti"};
         myList.AddRange(moreStrings);
         
-        //Loop gjennom listen med en foreach loop
+        // Loop gjennom listen med en foreach loop
         foreach (string myStrings in myList)
         {
             Console.WriteLine(myStrings);
